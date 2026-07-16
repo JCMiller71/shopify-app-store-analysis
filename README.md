@@ -14,7 +14,7 @@
 
 #### 
 
-#### **Key Insight**
+# **Key Insight**
 
 
 
@@ -22,7 +22,7 @@ This analysis covers the reviews of various apps and their categories from the y
 
 
 
-#### **Business Impact**
+# **Business Impact**
 
 
 
@@ -30,7 +30,7 @@ When people search for listings, they primarily use keywords to find what they w
 
 
 
-#### **Recommendation**
+# **Recommendation**
 
 
 
